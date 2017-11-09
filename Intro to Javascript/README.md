@@ -1,2 +1,2 @@
 # Udacity-Courses
-Here you will find the courses I do on Udacity!
+all content from Intro to Javascript course will be found here!
