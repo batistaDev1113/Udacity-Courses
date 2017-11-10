@@ -1,0 +1,1 @@
+All quizzes with their solutions from lesson 5 ( functions ) can be found here
